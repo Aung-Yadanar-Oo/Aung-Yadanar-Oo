@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aung-Yadanar-Oo
+- 👋 Hi, I’m @Aung Yadanar Oo
 - 👀 I’m interested in CS
 - 🌱 I’m currently learning CS at Uopeople
 - 💞️ I’m looking to collaborate on my school project
